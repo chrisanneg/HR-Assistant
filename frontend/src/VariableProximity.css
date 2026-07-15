@@ -1,0 +1,9 @@
+/* VariableProximity component styles */
+.variable-proximity {
+  cursor: default;
+  user-select: none;
+}
+
+.variable-proximity span {
+  transition: font-variation-settings 0.1s ease-out;
+}
